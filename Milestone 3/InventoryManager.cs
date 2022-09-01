@@ -8,9 +8,8 @@ namespace Milestone_3
 {
     class InventoryManager
     {
-        // items array, will hold 50 arbitrarily
+        // items array
         public static Item[] items = new Item[50];
-        public static int itemLength = 50;
         public static int currentItems = 0;
 
         public void DisplayItems()
