@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Milestone_3
 {
+    // Item class
     public class Item
     {
         public string itemName;
